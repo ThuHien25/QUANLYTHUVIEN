@@ -1,0 +1,5 @@
+D:\HOC_TAP\HOC KI 7_HKI 2016\CongNghePhanMem_BichNgan\DoAnCNPM\PhanMemQuanLyThuVien-New\PhanMemQLThuVien - New\BLL\bin\Debug\BLL.dll.config
+D:\HOC_TAP\HOC KI 7_HKI 2016\CongNghePhanMem_BichNgan\DoAnCNPM\PhanMemQuanLyThuVien-New\PhanMemQLThuVien - New\BLL\bin\Debug\BLL.dll
+D:\HOC_TAP\HOC KI 7_HKI 2016\CongNghePhanMem_BichNgan\DoAnCNPM\PhanMemQuanLyThuVien-New\PhanMemQLThuVien - New\BLL\bin\Debug\BLL.pdb
+D:\HOC_TAP\HOC KI 7_HKI 2016\CongNghePhanMem_BichNgan\DoAnCNPM\PhanMemQuanLyThuVien-New\PhanMemQLThuVien - New\BLL\obj\Debug\BLL.dll
+D:\HOC_TAP\HOC KI 7_HKI 2016\CongNghePhanMem_BichNgan\DoAnCNPM\PhanMemQuanLyThuVien-New\PhanMemQLThuVien - New\BLL\obj\Debug\BLL.pdb
